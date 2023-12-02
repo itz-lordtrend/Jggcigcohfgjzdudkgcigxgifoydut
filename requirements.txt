@@ -1,0 +1,9 @@
+requests
+pystyle
+multiprocess
+subprocess
+sys
+time
+threading
+colorama
+aiohttp
